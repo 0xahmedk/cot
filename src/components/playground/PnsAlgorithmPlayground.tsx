@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Paper, Stack, Text, Button, Code } from "@mantine/core";
 
 export function PnsAlgorithmPlayground() {
